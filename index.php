@@ -207,7 +207,7 @@ $(document).ready(function() {
 
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link rel="pingback" href="https://crane.grooni.com/xmlrpc.php">
-    <title>Best Multipurpose WordPress Theme 2020 – The Crane</title>
+    <title>ChrisCode especialista web | Porque innovar es avanzar</title>
     <link rel="dns-prefetch" href="http://crane.grooni.com/">
     <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
     <link rel="dns-prefetch" href="http://s.w.org/">

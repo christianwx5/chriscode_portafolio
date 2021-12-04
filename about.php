@@ -67,10 +67,10 @@
             <li><span class="text">Nombre:</span>Christian Di Santo</li>
             <li><span class="text">Email:</span><a href="mailto:andrew@gmail.com">disantochistian@gmail.com</a></li>
             <li><span class="text">Teléfono:</span>(0412) &#8211; 424-9751</li>
-            <li><span class="text">Whatsapp:</span>+58 4166463409</li>
+            <li><span class="text">Whatsapp:</span>+58 4124249751</li>
             <li><span class="text">Nacionalidad:</span>Venezuela</li>
             </ul>
-            <a  href="archivos/curriculo Christian.pub" target="_self" class="inner-link  margin-six-top highlight-button-dark btn-medium  button btn alt-font">Bajar curriculo</a></div></div>
+            <a  href="archivos/CD_Curriculo-convertido.pdf" target="_self" class="inner-link  margin-six-top highlight-button-dark btn-medium  button btn alt-font">Bajar curriculo</a></div></div>
             </div>
 
 
@@ -95,7 +95,7 @@
 </div></section>
 
 <section id="secund_slider">
-    yoloooooooooooo 3
+    
     <diV class="contennido_slider" >
                 <div class="espacio_slider"></div>
         <div id="brando-owl-slider7" class="full-screen owl-carousel owl-theme brando-owl-slider7 square-pagination light-pagination dark-navigation white-cursor main-slider adaptar_silder_port" style="min-height: 720px;max-height: 720px"><div id="slider-imag" class="item owl-bg-img full-screen bg-image-srcset" style="background-image:url(imagen/foto1_slider.jpg)" data-bg-srcset="https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img1.jpg 1671w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img1-300x194.jpg 300w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img1-768x496.jpg 768w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img1-1024x662.jpg 1024w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img1-1083x700.jpg 1083w"></div><div id="slider-imag2" class="item owl-bg-img full-screen bg-image-srcset" style="background-image:url(imagen/foto2_slider.jpg)" data-bg-srcset="https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img22.jpg 1671w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img22-300x194.jpg 300w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img22-768x496.jpg 768w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img22-1024x662.jpg 1024w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img22-1083x700.jpg 1083w"></div><div id="slider-imag3" class="item owl-bg-img full-screen bg-image-srcset" style="background-image:url(imagen/foto3_slider.jpg)" data-bg-srcset="https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img23.jpg 1671w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img23-300x194.jpg 300w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img23-768x496.jpg 768w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img23-1024x662.jpg 1024w, https://brando.themezaa.com/personal/wp-content/uploads/2016/04/personal-img23-1083x700.jpg 1083w"></div>
